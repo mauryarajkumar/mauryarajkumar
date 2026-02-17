@@ -1,6 +1,16 @@
-# 💫 About Me:
-Hi, Myself Rajkumar Maurya <br> I’m currently diving into the <br>world of technology by pursuing<br> a BTECH Computer Science and Engineering.
+<h1 align="center">Hi 👋, I'm Rajkumar Maurya</h1>
+<h3 align="center">🚀 BTech Computer Science & Engineering Student | Tech Enthusiast</h3>
 
+---
+
+
+## 💫 About Me
+- 🎓 Pursuing BTech in Computer Science & Engineering  
+- 💻 Passionate about Web Development & Programming  
+- 🌱 Currently learning Advanced React & Backend Development  
+- 🎯 Goal: Become a Full Stack Developer  And Devops Engineer
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100021725316003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauryarajkumar_557/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauryarajkumar) 
@@ -22,7 +32,16 @@ Hi, Myself Rajkumar Maurya <br> I’m currently diving into the <br>world of tec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mauryarajkumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauryarajkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mauryarajkumar&icon=0&color=0 )](https://visitcount.itsvg.in)
+
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mauryarajkumar&layout=compact)
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
